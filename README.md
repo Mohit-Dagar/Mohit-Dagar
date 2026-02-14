@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohit-Dagar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning  JAVA
+- 🌱 I’m currently learning  Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by my github profile
 
