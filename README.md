@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Mohit Dagar</h1>
 <h3 align="center">Python Engineer | AI/ML Builder | Automation Developer</h3>
 
@@ -33,20 +31,20 @@
 
 > I am actively upgrading my projects to be more production-ready. Links below reflect my main focus areas.
 
-- **AI Roommate** – smart assistant concept for room monitoring, reminders, and automation.  
-  _Python • PyQt/PySide • OpenCV_
+- **AI Roommate** — smart assistant concept for room monitoring, reminders, and automation.  
+  *Python • PyQt/PySide • OpenCV*
 
-- **Smart Surveillance CV** – real-time home surveillance with motion detection and event-aware computer vision.  
-  _Python • OpenCV • NumPy_
+- **Smart Surveillance CV** — real-time home surveillance with motion detection and event-aware computer vision.  
+  *Python • OpenCV • NumPy*
 
-- **Crop Yield ML** – ML experiments for crop recommendation and yield estimation in agriculture.  
-  _Python • pandas • scikit-learn_
+- **Crop Yield ML** — ML experiments for crop recommendation and yield estimation in agriculture.  
+  *Python • pandas • scikit-learn*
 
-- **UiPath Automation Lab** – automation workflows for productivity and business processes.  
-  _UiPath • RPA • process design_
+- **UiPath Automation Lab** — automation workflows for productivity and business processes.  
+  *UiPath • RPA • process design*
 
-- **PyQt AI Dashboard** – desktop dashboard for model outputs, alerts, and metrics.  
-  _Python • PyQt/PySide • visualization_
+- **PyQt AI Dashboard** — desktop dashboard for model outputs, alerts, and metrics.  
+  *Python • PyQt/PySide • visualization*
 
 ---
 
@@ -55,6 +53,7 @@
 ### Languages
 - Python
 - SQL
+- Excel
 - C++ / C# (beginner level)
 
 ### Data Science & ML
