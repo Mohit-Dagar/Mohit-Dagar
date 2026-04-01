@@ -1,0 +1,36 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EEF2F7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="80" x2="780" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#059669"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+
+  <rect width="1200" height="400" rx="28" fill="url(#bg)"/>
+  <circle cx="980" cy="90" r="90" fill="#2563EB" fill-opacity="0.14" filter="url(#blur)"/>
+  <circle cx="1070" cy="250" r="110" fill="#059669" fill-opacity="0.12" filter="url(#blur)"/>
+  <circle cx="880" cy="290" r="80" fill="#7C3AED" fill-opacity="0.10" filter="url(#blur)"/>
+
+  <path d="M0 315C120 270 170 350 280 312C390 274 430 205 560 230C690 255 720 330 850 315C980 300 1060 208 1200 255" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="70" y="125" fill="#0F172A" font-size="44" font-family="JetBrains Mono, monospace" font-weight="700">Mohit Dagar</text>
+  <text x="70" y="172" fill="#475569" font-size="24" font-family="JetBrains Mono, monospace">Python | AI/ML | Automation</text>
+  <text x="70" y="218" fill="#334155" font-size="18" font-family="JetBrains Mono, monospace">Building practical computer vision, agri-tech ML, desktop AI tools</text>
+
+  <rect x="70" y="258" width="148" height="40" rx="20" fill="#E2E8F0"/>
+  <text x="95" y="283" fill="#2563EB" font-size="18" font-family="JetBrains Mono, monospace">Python</text>
+
+  <rect x="235" y="258" width="120" height="40" rx="20" fill="#E2E8F0"/>
+  <text x="260" y="283" fill="#059669" font-size="18" font-family="JetBrains Mono, monospace">AI/ML</text>
+
+  <rect x="372" y="258" width="180" height="40" rx="20" fill="#E2E8F0"/>
+  <text x="397" y="283" fill="#7C3AED" font-size="18" font-family="JetBrains Mono, monospace">Automation</text>
+
+  <text x="70" y="345" fill="#64748B" font-size="16" font-family="JetBrains Mono, monospace">Open to remote internships and full-time roles</text>
+</svg>
