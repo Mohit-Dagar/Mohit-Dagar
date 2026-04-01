@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="mailto:mohitjaatsaab0001@gmail.com"><img src="https://img.shields.io/badge/Email%201-mohitjaatsaab0001%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1 badge" /></a>
-  <a href="mailto:mohitjt144@gmail.com"><img src="https://img.shields.io/badge/Email%202-mohitjt144%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2 badge" /></a>
-  <a href="https://www.linkedin.com/in/mohit-dagar-o1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
-  <a href="https://github.com/Mohit-Dagar" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" /></a>
+  <a href="mailto:mohitjaatsaab0001@gmail.com"><strong>Connect</strong></a> •
+  <a href="mailto:mohitjaatsaab0001@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/mohit-dagar-o1/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/Mohit-Dagar" target="_blank">GitHub</a>
 </p>
 ---
 
@@ -88,10 +88,11 @@
 
 ## 📫 Connect
 
+- Email: [mohitjaatsaab0001@gmail.com](mailto:mohitjaatsaab0001@gmail.com)
 - LinkedIn: [linkedin.com/in/mohit-dagar-o1](https://www.linkedin.com/in/mohit-dagar-o1/)
-- Email 1: [mohitjaatsaab0001@gmail.com](mailto:mohitjaatsaab0001@gmail.com)
-- Email 2: [mohitjt144@gmail.com](mailto:mohitjt144@gmail.com)
 - GitHub: [github.com/Mohit-Dagar](https://github.com/Mohit-Dagar)
+
+> Open to internships, remote Python roles, AI/ML opportunities, and meaningful collaborations.
 
 > Open to collaborating on AI tools, computer vision, agri-tech ML, and automation projects.
 ---
