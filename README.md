@@ -53,7 +53,6 @@
 ### Languages
 - Python
 - SQL
-- Excel
 - C++ / C# (beginner level)
 
 ### Data Science & ML
