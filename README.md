@@ -1,25 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/assets/banner-dark.svg#gh-dark-mode-only" alt="Mohit Dagar banner dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/assets/banner-light.svg#gh-light-mode-only" alt="Mohit Dagar banner light" width="100%" />
-</p>
-
-<h1 align="center">Mohit Dagar</h1>
-<h3 align="center">Python Engineer | AI/ML Builder | Automation Developer</h3>
-
-<p align="center">
-  Paragpur, Punjab, India • Open to remote AI/ML, Python, Data Science, and Automation roles
-</p>
-
-<p align="center">
-  <em>Gym 6x/week | Haryanvi beats fuel my code | Building practical AI, not just notebooks</em>
-</p>
-
-<p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+  <a href="mailto:mohitjaatsaab0001@gmail.com"><img src="https://img.shields.io/badge/Email%201-mohitjaatsaab0001%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1 badge" /></a>
+  <a href="mailto:mohitjt144@gmail.com"><img src="https://img.shields.io/badge/Email%202-mohitjt144%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2 badge" /></a>
+  <a href="https://www.linkedin.com/in/mohit-dagar-o1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
   <a href="https://github.com/Mohit-Dagar" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" /></a>
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -104,12 +88,12 @@
 
 ## 📫 Connect
 
-- LinkedIn: `www.linkedin.com/in/mohit-dagar-o1/`
-- Email: `mohitjaatsaab0001@gmail.com`,'mohitjt144@gmail.com'
-- GitHub: `https://github.com/Mohit-Dagar`
+- LinkedIn: [linkedin.com/in/mohit-dagar-o1](https://www.linkedin.com/in/mohit-dagar-o1/)
+- Email 1: [mohitjaatsaab0001@gmail.com](mailto:mohitjaatsaab0001@gmail.com)
+- Email 2: [mohitjt144@gmail.com](mailto:mohitjt144@gmail.com)
+- GitHub: [github.com/Mohit-Dagar](https://github.com/Mohit-Dagar)
 
 > Open to collaborating on AI tools, computer vision, agri-tech ML, and automation projects.
-
 ---
 
 <p align="center">
