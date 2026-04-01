@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/banner-dark.svg" alt="Mohit Dagar banner" width="100%" />
-</p>
+
 
 <h1 align="center">Mohit Dagar</h1>
 <h3 align="center">Python Engineer | AI/ML Builder | Automation Developer</h3>
