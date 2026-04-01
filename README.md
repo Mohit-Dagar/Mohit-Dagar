@@ -1,23 +1,40 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/banner-dark.svg#gh-dark-mode-only" alt="Mohit Dagar banner dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/banner-light.svg#gh-light-mode-only" alt="Mohit Dagar banner light" width="100%" />
+</p>
+
+<h1 align="center">Mohit Dagar</h1>
+<h3 align="center">Python Engineer | AI/ML Builder | Automation Developer</h3>
+
+<p align="center">
+  Paragpur, Punjab, India • Open to remote AI/ML, Python, Data Science, and Automation roles
+</p>
+
+<p align="center">
+  <em>Gym 6x/week | Haryanvi beats fuel my code | Building practical AI, not just notebooks</em>
+</p>
+
+<p align="center">
   <a href="mailto:mohitjaatsaab0001@gmail.com"><strong>Connect</strong></a> •
   <a href="mailto:mohitjaatsaab0001@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/mohit-dagar-o1/" target="_blank">LinkedIn</a> •
   <a href="https://github.com/Mohit-Dagar" target="_blank">GitHub</a>
 </p>
+
 ---
 
 ## 🚀 About Me
 
 - Final-year B.Tech CSE student focused on **Python**, **AI/ML**, and **automation engineering**.
 - I build practical systems in **computer vision**, **agri-tech ML**, **desktop AI apps**, and **workflow automation**.
-- I like taking ideas from “notebook prototype” to “usable tool” with clean code and clear structure.
+- I like taking ideas from notebook prototypes to usable tools with clean code and clear structure.
 - Actively looking for **remote internships**, **entry-level Python roles**, and **AI/ML engineering opportunities**.
 
 ---
 
 ## 🔥 Featured Projects
 
-> I am actively upgrading my projects to be more production-ready. Links below are my main focus areas.
+> I am actively upgrading my projects to be more production-ready. Links below reflect my main focus areas.
 
 - **AI Roommate** – smart assistant concept for room monitoring, reminders, and automation.  
   _Python • PyQt/PySide • OpenCV_
@@ -39,9 +56,9 @@
 ## 📊 Skills & Tools
 
 ### Languages
-- Python (core language)
-- SQL (queries, joins, basic optimization)
-- C++ / C# (beginner level, exploring)
+- Python
+- SQL
+- C++ / C# (beginner level)
 
 ### Data Science & ML
 - pandas, NumPy, scikit-learn
@@ -50,9 +67,9 @@
 
 ### Apps, Dev & Automation
 - PyQt / PySide desktop apps
-- FastAPI & Streamlit (learning for ML apps)
+- FastAPI & Streamlit (learning)
 - UiPath for RPA
-- Git, GitHub, GitHub Actions (learning)
+- Git and GitHub
 
 ---
 
@@ -79,10 +96,10 @@
 
 ## 🌱 Learning / Exploring
 
-- LLM applications, prompt engineering, and applied AI tools
-- MLOps basics (deployment, experiment tracking)
+- LLM applications and applied AI tooling
+- MLOps basics, deployment, and experiment tracking
 - Better UI/UX with PyQt and simple web frontends
-- Stronger problem-solving for Python / DSA interviews
+- Stronger problem-solving for Python and DSA interviews
 
 ---
 
@@ -94,15 +111,8 @@
 
 > Open to internships, remote Python roles, AI/ML opportunities, and meaningful collaborations.
 
-> Open to collaborating on AI tools, computer vision, agri-tech ML, and automation projects.
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohit-Dagar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor counter" />
 </p>
-
-
-<!---
-Mohit-Dagar/Mohit-Dagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
