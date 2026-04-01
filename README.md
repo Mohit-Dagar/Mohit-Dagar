@@ -29,7 +29,7 @@
 
 ## 🔥 Featured Projects
 
-> I am actively upgrading my projects to be more production-ready. Links below reflect my main focus areas.
+> I am actively upgrading my projects to be more production-ready. These are my main focus areas.
 
 - **AI Roommate** — smart assistant concept for room monitoring, reminders, and automation.  
   *Python • PyQt/PySide • OpenCV*
@@ -104,7 +104,7 @@
 - LinkedIn: [linkedin.com/in/mohit-dagar-o1](https://www.linkedin.com/in/mohit-dagar-o1/)
 - GitHub: [github.com/Mohit-Dagar](https://github.com/Mohit-Dagar)
 
-> Open to internships, remote Python roles, AI/ML opportunities, and meaningful collaborations.
+> Open to internships, remote Python roles,data analyst, AI/ML opportunities, and meaningful collaborations.
 
 ---
 
