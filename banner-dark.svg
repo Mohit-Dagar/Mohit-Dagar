@@ -19,22 +19,21 @@
 
   <path d="M0 315C120 270 170 350 280 312C390 274 430 205 560 230C690 255 720 330 850 315C980 300 1060 208 1200 255" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
 
-  <text x="70" y="125" fill="#F0F6FC" font-size="44" font-family="JetBrains Mono, monospace" font-weight="700">Mohit Dagar</text>
-  <text x="70" y="172" fill="#8B949E" font-size="24" font-family="JetBrains Mono, monospace">Python | AI/ML | Automation</text>
-  <text x="70" y="218" fill="#C9D1D9" font-size="18" font-family="JetBrains Mono, monospace">Building practical computer vision, agri-tech ML, desktop AI tools</text>
+  <text x="70" y="125" fill="#F0F6FC" font-size="44" font-family="'JetBrains Mono', monospace" font-weight="700">Mohit Dagar</text>
+  <text x="70" y="172" fill="#8B949E" font-size="24" font-family="'JetBrains Mono', monospace">Python | AI/ML | Automation</text>
+  <text x="70" y="218" fill="#C9D1D9" font-size="18" font-family="'JetBrains Mono', monospace">Building practical computer vision, agri-tech ML, desktop AI tools, and workflow automation</text>
 
   <rect x="70" y="258" width="148" height="40" rx="20" fill="#21262D"/>
-  <text x="95" y="283" fill="#58A6FF" font-size="18" font-family="JetBrains Mono, monospace">Python</text>
+  <text x="95" y="283" fill="#58A6FF" font-size="18" font-family="'JetBrains Mono', monospace">🐍 Python</text>
 
   <rect x="235" y="258" width="120" height="40" rx="20" fill="#21262D"/>
-  <text x="260" y="283" fill="#3FB950" font-size="18" font-family="JetBrains Mono, monospace">AI/ML</text>
+  <text x="260" y="283" fill="#3FB950" font-size="18" font-family="'JetBrains Mono', monospace">🤖 AI/ML</text>
 
   <rect x="372" y="258" width="180" height="40" rx="20" fill="#21262D"/>
-  <text x="397" y="283" fill="#A371F7" font-size="18" font-family="JetBrains Mono, monospace">Automation</text>
+  <text x="397" y="283" fill="#A371F7" font-size="18" font-family="'JetBrains Mono', monospace">📊 Automation</text>
 
-  <text x="70" y="345" fill="#8B949E" font-size="16" font-family="JetBrains Mono, monospace">Open to remote internships and full-time roles</text>
+  <text x="70" y="345" fill="#8B949E" font-size="16" font-family="'JetBrains Mono', monospace">Open to remote internships and full-time roles</text>
 </svg>
-
 <!-- code for redeme to show case banner:-"<p align="center">
   <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/banner-dark.svg" alt="Mohit Dagar banner" width="100%" />
 </p>"
