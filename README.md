@@ -2,7 +2,7 @@
 <h3 align="center">Python Engineer | AI/ML Builder | Automation Developer</h3>
 
 <p align="center">
-  Paragpur, Punjab, India | Open to remote AI/ML, Python, Data Science, and Automation roles
+  Jhajjar, Haryana, India | Open to remote AI/ML, Python, Data Science, and Automation roles
 </p>
 
 <p align="center">
