@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/banner-dark.svg#gh-dark-mode-only" alt="Mohit Dagar banner dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/banner-light.svg#gh-light-mode-only" alt="Mohit Dagar banner light" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mohit-Dagar/Mohit-Dagar/main/banner-dark.svg" alt="Mohit Dagar banner" width="100%" />
 </p>
 
 <h1 align="center">Mohit Dagar</h1>
